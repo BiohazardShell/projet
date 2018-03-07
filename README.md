@@ -1,3 +1,3 @@
 # projet
 
-This is text recognition python program using OpenCV lib.
+This is image to text recognition python program using OpenCV lib.
